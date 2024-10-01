@@ -1,11 +1,5 @@
-/* .block{
-    width: 400px;
-    height: 250px;
-    border: 1px solid black;
-    align-items: center;
-    justify-content: center;
-} */
-.flag{
+
+/* .flag{
         width: 120px;
         height: 120px;
         background-color: #BC002D;
@@ -22,6 +16,55 @@
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
 
 /* ölçüsü 300x200px, dairə diametri 120px.  */
+/* flag */
+
+/* 1ci task */
+/* .block{
+    width: 400px;
+    height: 250px;
+    border: 1px solid black;
+    align-items: center;
+    justify-content: center;
+} */
+
+
+
+
+/* 3cu task */
+
+body, html {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.chart-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 300px;
+    height: 280px;
+    border: 2px solid #333;
+    padding: 10px;
+    background-color: white;
+}
+
+.bar {
+    width: 50px;
+    background-color:cornflowerblue;
+    color: white;
+    text-align: center;
+    margin: 0 10px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    font-weight: bold;
+    border-radius: 5px;
+}
