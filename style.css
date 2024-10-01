@@ -1,3 +1,4 @@
+/* 2ci task */
 
 /* .flag{
         width: 120px;
@@ -21,21 +22,39 @@
 /* ölçüsü 300x200px, dairə diametri 120px.  */
 /* flag */
 
+
+
+
+
+
+
+
 /* 1ci task */
-/* .block{
+
+/* .container{
     width: 400px;
     height: 250px;
     border: 1px solid black;
     align-items: center;
     justify-content: center;
-} */
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+ */
 
 
 
 
+
+ 
 /* 3cu task */
 
-body, html {
+/* body, html {
     margin: 0;
     padding: 0;
     display: flex;
@@ -67,4 +86,4 @@ body, html {
     justify-content: center;
     font-weight: bold;
     border-radius: 5px;
-}
+} */
